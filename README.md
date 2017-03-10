@@ -1,2 +1,2 @@
-# WebStore-Design-Only-HTML-CSS-JS
-Desig for Web Store Html, Css, JS, Boostrap
+# MyGalery-Design-Only-HTML-CSS-JS
+Galery Html, Css, JS, Boostrap
