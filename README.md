@@ -1,2 +1,2 @@
-# MyGalery-Design-Only-HTML-CSS-JS
-Galery Html, Css, JS, Boostrap
+# MyGallery-Design-Only-HTML-CSS-JS
+Gallery Html, Css, JS, Boostrap
